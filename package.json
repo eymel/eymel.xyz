@@ -1,0 +1,29 @@
+{
+    "name": "eymel.xyz",
+    "version": "1.0.0",
+    "description": "Basit bir ekrandan oluşacak ve gerekli alanlara yönlendirme yapacak",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/eymel/mysite.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://gitlab.com/eymel/mysite/issues"
+    },
+    "homepage": "https://gitlab.com/eymel/mysite#readme",
+    "dependencies": {
+        "next": "^9.2.1",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0"
+    },
+    "devDependencies": {
+        "prettier": "^1.19.1"
+    }
+}
