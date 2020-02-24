@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+.leftSide {
+  width: 20%;
+  background-color: #C0C0C0;
+}
+.rigthSide {
+  width: 80%;
+  background-color: #EDE4E3;
+}

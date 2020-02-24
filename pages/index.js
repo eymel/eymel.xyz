@@ -1,8 +1,11 @@
+import { Layout, Page } from '../components'
 function HomePage() {
   return (
-    <div>
-      <h1>Eymel Web Site</h1>
-    </div>
+    <Layout>
+      <Page title="Ana Sayfa">
+        <p>Eymel Web Site</p>
+      </Page>
+    </Layout>
   )
 }
 
